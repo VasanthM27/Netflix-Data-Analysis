@@ -9,13 +9,14 @@
 ### Data Cleaning:
 
 Task 1: Checked for and removed duplicate records to ensure data integrity.</br>
-Task 2: Detected and visualized null values using a heat map to identify missing data patterns.
-
+Task 2: Detected and visualized null values using a heat map to identify missing data patterns.</br>
+<img src= "https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/heat%20map.png" />
 
 ### Exploratory Data Analysis:
 
 Q1: Found the Show ID and Director of the TV show 'House of Cards'.</br>
 Q2: Determined the year with the highest number of TV shows and movies released, visualized with a bar graph.</br>
+<img src= "https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/bar%202.png" /></br>
 Q3: Created a bar graph displaying the count of movies and TV shows in the dataset. </br>
 <img src="https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/bar%20graph.png"/>
 
