@@ -24,19 +24,23 @@ Q3: Created a bar graph displaying the count of movies and TV shows in the datas
 
 Q4: Listed movies released in the year 2000.</br>
 Q5: Extracted titles of TV shows released only in India.</br>
-Q6: Identified the top 10 directors contributing the most content to Netflix.
+Q6: Identified the top 10 directors contributing the most content to Netflix.</br>
+<img src="https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/top%20directors.png"/></br>
 
 ### Advanced Queries and Analysis:
 
 Q7: Extracted records with either 'Movie' and 'Comedies' type or 'TV Show' and 'United Kingdom' country.</br>
 Q8: Counted the movies/shows featuring Tom Cruise.</br>
 Q9: Explored different Netflix ratings and their distributions.</br>
+<img src = "https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/diff%20ratings.png"/></br>
 Q9.1: Calculated the count of 'TV-14' rated movies in Canada.</br>
 Q9.2: Counted 'R' rated TV shows released after 2018.
 
 ### Data Insights:
 
-Q10: Determined the maximum duration of a movie/show on Netflix.</br>
+Q10: Determined the maximum duration of a movie/TV show on Netflix.</br>
 Q11: Identified the country with the highest number of TV shows.</br>
 Q12: Explored how to sort the dataset by year.</br>
-Q13: Filtered instances meeting specific criteria (e.g., 'Movie' and 'Dramas', or 'TV Show' and 'Kids TV').
+Q13: Filtered instances meeting specific criteria (e.g., 'Movie' and 'Dramas', or 'TV Show' and 'Kids TV').</br>
+Q14: Distribution of Movie and TV Show</br>
+<img src="https://github.com/VasanthM27/Netflix-Data-Analysis/blob/main/distribution%20of%20movie%20and%20tv%20shows.png"/>
