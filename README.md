@@ -4,7 +4,7 @@
 
 
 ## Python Libaries Used
-### *pandas, seaborn, datetime, Label encoder*
+### *pandas, seaborn, datetime, Matplotlib, Label encoder*
 
 ### Data Cleaning:
 
